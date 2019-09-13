@@ -15,6 +15,7 @@ namespace vsCode
             int soma = num+num2;
             Console.WriteLine("A soma dos dois numeros = "+soma);
             Console.ReadLine();
+            Console.WriteLine("Alteracao efectuada com sucesso");
         }
     }
 }
